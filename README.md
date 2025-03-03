@@ -111,7 +111,7 @@ Row(
     padding: const EdgeInsets.all(0.0),
     color: Colors.orangeAccent,
     width: 70.0,
-    height: 80.0,
+    height: 70.0,
   ),
   ],
 ),
