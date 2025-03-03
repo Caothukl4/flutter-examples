@@ -110,7 +110,7 @@ Row(
   Container(
     padding: const EdgeInsets.all(0.0),
     color: Colors.orangeAccent,
-    width: 80.0,
+    width: 70.0,
     height: 80.0,
   ),
   ],
